@@ -26,7 +26,7 @@ At the same time, also determining what the limitations are based on study site 
 * We identified data gap in ATL10 near coast and evolved project focus to filling data gaps in ATL10 around coastline.
 * We wrote a Jupyter notebook that pulls ATLO6 data using Slide ride (outside of land ice) and estimates the height of ice from reference ellipsoid.
 * We also developed a workflow to convert height of ice above the reference ellipsioid to freeboard height using [geoid height](https://github.com/ICESAT-2HackWeek/3D_CRS_Transformation_Resources) and tidal using [pyTMD](https://pytmd.readthedocs.io/en/latest/api_reference/compute_tide_corrections.html).
-* [Example Workflow Jupyter Notebook](your notebook url here).
+* [Jupyter Notebook](https://github.com/tparker1/icemelange/blob/main/notebooks/icemelange_timeseries.ipynb).
 
 
 ## Future Efforts
