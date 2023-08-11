@@ -14,7 +14,7 @@ The following people contributed to our project throughout the week:
     *Credit: Joe MacGregor / NASA*
 
 Our broad project goal was to use IceSat-2 data to determine the thickness of mélange along the fjord of Sermeq Kujalleq (Jakobshavn Isbræ).
-Our team was interested in exploring different resources to access ICESat-2 data, learning about ATL products, and recognize which products would be useful to get thickness.
+Our team was interested in exploring different resources to access ICESat-2 data, learning about ATL products, and recognize which products would be useful to get ice mélange thickness.
 At the same time, also determining what the limitations are based on study site and temporal interests. Collaboration using github and efficent sharing of code was what we all aspired for at the beginning.
 
 ## Project Outcomes
