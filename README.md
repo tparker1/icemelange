@@ -9,8 +9,9 @@ The following people contributed to our project throughout the week:
 
 ## Project Goals
 
-![Alt text]([image link](https://espo.nasa.gov/sites/default/files/images/hk%20-%205_0.jpg))
-Credit: Joe MacGregor / NASA
+![melange](https://github.com/tparker1/icemelange/assets/39869129/e7c753d9-7f6a-4332-a0c1-b02d86b97bf3)
+    Fig: Ice mélange                                                                                                                                         
+    *Credit: Joe MacGregor / NASA*
 
 Our broad project goal was to use IceSat-2 data to determine the thickness of mélange along the fjord of Sermeq Kujalleq (Jakobshavn Isbræ).
 Our team was interested in exploring different resources to access ICESat-2 data, learning about ATL products, and recognize which products would be useful to get thickness.
@@ -18,16 +19,6 @@ At the same time, also determining what the limitations are based on study site 
 
 ## Project Outcomes
 
-List and describe, if desired, any project outcomes accomplished during the week.
-These may be individual or aggregate, large or small.
-The idea is to capture what your team learned and accomplished.
-Links to relevant outputs are a great way to capture these outcomes, so long as the links are likely to remain valid for some time (this readme - with this list - will be archived as part of the Hackweek JupyterBook).
-Some examples might be:
-
-* We submitted a [Pull Request (PR) to the earthaccess library](https://nsidc.github.io/earthaccess/) to fix a typo.
-* Kate opened a [discussion on icepyx](https://github.com/icesat2py/icepyx/discussions).
-* Sam and Harvey put in a [SlideRule feature request](https://github.com/orgs/ICESat2-SlideRule/discussions).
-* six team members wrote [functions for Pho](link to project team repository).
 * We explored ATL 10/06/03 datasets (using earthdata/CMR/earthaccess/icepyx) and Explored sliderule for getting freeboard data for atl03 datasets.
 * We used openaltimetry to see where there is data on ice melange areas.
 * We created timeseriers for fjord using h_mean ATL06 (sliderule-processed) data and investigated outliers in the data.
