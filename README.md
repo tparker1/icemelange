@@ -12,13 +12,12 @@ The following people contributed to our project throughout the week:
 ![melange](https://github.com/tparker1/icemelange/assets/39869129/e7c753d9-7f6a-4332-a0c1-b02d86b97bf3)
     Fig: Ice mélange                                                                                                                                         
     *Credit: Joe MacGregor / NASA*
-<img width="1139" alt="Screenshot 2023-08-11 at 11 58 16 AM" src="https://github.com/tparker1/icemelange/assets/39869129/c6ab3d17-f1b0-429d-b173-49b73917e098">
 
 Our broad project goal was to use IceSat-2 data to determine the thickness of mélange along the fjord of Sermeq Kujalleq (Jakobshavn Isbræ).
 Our team was interested in exploring different resources to access ICESat-2 data, learning about ATL products, and recognize which products would be useful to get ice mélange thickness.
 At the same time, also determining what the limitations are based on study site and temporal interests. Collaboration using github and efficent sharing of code was what we all aspired for at the beginning.
 
-
+<img width="1139" alt="Screenshot 2023-08-11 at 11 58 16 AM" src="https://github.com/tparker1/icemelange/assets/39869129/c6ab3d17-f1b0-429d-b173-49b73917e098">
 
 ## Project Outcomes
 
