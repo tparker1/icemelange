@@ -31,8 +31,9 @@ At the same time, also determining what the limitations are based on study site 
 
 ## Future Efforts
 
-* Explore ATL03 data for near-coast ice thickness data.
-* Extend and refine the time series to investigate ice mélange seasonality.
+* Explore ATL03 data and other options for near-coast ice thickness data.
+* Extend and refine the timeseries to investigate ice mélange seasonality.
+* Process tidal data to correct the estimated sea ice height.  
 
 * 
 Have you built any great new collaborations you anticipate continuing after the Hackweek?
