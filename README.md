@@ -33,6 +33,7 @@ At the same time, also determining what the limitations are based on study site 
 
 * Explore ATL03 data and other options for near-coast ice thickness data.
 * Extend and refine the timeseries to investigate ice mélange seasonality and spatial variations.
+* Refine estimated sea ice height.
 * Process tidal data to correct the estimated sea ice height.
 * Verification of the estimated ice mélange height. 
 
