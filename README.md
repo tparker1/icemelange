@@ -31,6 +31,10 @@ At the same time, also determining what the limitations are based on study site 
 
 ## Future Efforts
 
+* Explore ATL03 data for near-coast ice thickness data.
+* Extend and refine the time series to investigate ice mélange seasonality.
+
+* 
 Have you built any great new collaborations you anticipate continuing after the Hackweek?
 Is your team planning to keep meeting to continue hacking or draft a conference abstract or proposal?
 Did you start doing some work that relates to your research and enables you to contribute to shared tools for working with ICESat-2 data products?
